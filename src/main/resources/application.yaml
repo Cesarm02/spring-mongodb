@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      database: empleado_db
+      uri: mongodb+srv://cesarm02:cesarm02@cluster0.tmwr2fk.mongodb.net/empleado_db?retryWrites=true&w=majority
